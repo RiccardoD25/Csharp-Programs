@@ -1,0 +1,16 @@
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.Form1.resources
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.csproj.GenerateResource.cache
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.AssemblyInfoInputs.cache
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.AssemblyInfo.cs
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.csproj.CoreCompileInputs.cache
+D:\C#\HospitalCharges\HospitalCharges\bin\Debug\net7.0-windows\HospitalCharges.exe
+D:\C#\HospitalCharges\HospitalCharges\bin\Debug\net7.0-windows\HospitalCharges.deps.json
+D:\C#\HospitalCharges\HospitalCharges\bin\Debug\net7.0-windows\HospitalCharges.runtimeconfig.json
+D:\C#\HospitalCharges\HospitalCharges\bin\Debug\net7.0-windows\HospitalCharges.dll
+D:\C#\HospitalCharges\HospitalCharges\bin\Debug\net7.0-windows\HospitalCharges.pdb
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.dll
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\refint\HospitalCharges.dll
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.pdb
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\HospitalCharges.genruntimeconfig.cache
+D:\C#\HospitalCharges\HospitalCharges\obj\Debug\net7.0-windows\ref\HospitalCharges.dll
