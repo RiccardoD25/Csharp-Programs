@@ -1,0 +1,16 @@
+D:\C#\DistanceConverter\DistanceConverter\bin\Debug\net7.0-windows\DistanceConverter.exe
+D:\C#\DistanceConverter\DistanceConverter\bin\Debug\net7.0-windows\DistanceConverter.deps.json
+D:\C#\DistanceConverter\DistanceConverter\bin\Debug\net7.0-windows\DistanceConverter.runtimeconfig.json
+D:\C#\DistanceConverter\DistanceConverter\bin\Debug\net7.0-windows\DistanceConverter.dll
+D:\C#\DistanceConverter\DistanceConverter\bin\Debug\net7.0-windows\DistanceConverter.pdb
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.Form1.resources
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.csproj.GenerateResource.cache
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.AssemblyInfoInputs.cache
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.AssemblyInfo.cs
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.csproj.CoreCompileInputs.cache
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.dll
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\refint\DistanceConverter.dll
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.pdb
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\DistanceConverter.genruntimeconfig.cache
+D:\C#\DistanceConverter\DistanceConverter\obj\Debug\net7.0-windows\ref\DistanceConverter.dll
