@@ -1,0 +1,16 @@
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net7.0-windows\RandomNumberFileWriter.exe
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net7.0-windows\RandomNumberFileWriter.deps.json
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net7.0-windows\RandomNumberFileWriter.runtimeconfig.json
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net7.0-windows\RandomNumberFileWriter.dll
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net7.0-windows\RandomNumberFileWriter.pdb
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.Form1.resources
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.csproj.GenerateResource.cache
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.AssemblyInfoInputs.cache
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.AssemblyInfo.cs
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.csproj.CoreCompileInputs.cache
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.dll
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\refint\RandomNumberFileWriter.dll
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.pdb
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\RandomNumberFileWriter.genruntimeconfig.cache
+D:\C#\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net7.0-windows\ref\RandomNumberFileWriter.dll
