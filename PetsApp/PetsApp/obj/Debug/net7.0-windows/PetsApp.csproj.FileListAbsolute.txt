@@ -1,0 +1,16 @@
+D:\C#\PetsApp\PetsApp\bin\Debug\net7.0-windows\PetsApp.exe
+D:\C#\PetsApp\PetsApp\bin\Debug\net7.0-windows\PetsApp.deps.json
+D:\C#\PetsApp\PetsApp\bin\Debug\net7.0-windows\PetsApp.runtimeconfig.json
+D:\C#\PetsApp\PetsApp\bin\Debug\net7.0-windows\PetsApp.dll
+D:\C#\PetsApp\PetsApp\bin\Debug\net7.0-windows\PetsApp.pdb
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.Form1.resources
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.csproj.GenerateResource.cache
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.AssemblyInfoInputs.cache
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.AssemblyInfo.cs
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.csproj.CoreCompileInputs.cache
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.dll
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\refint\PetsApp.dll
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.pdb
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\PetsApp.genruntimeconfig.cache
+D:\C#\PetsApp\PetsApp\obj\Debug\net7.0-windows\ref\PetsApp.dll
