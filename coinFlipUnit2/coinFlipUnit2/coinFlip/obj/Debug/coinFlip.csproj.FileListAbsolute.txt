@@ -1,0 +1,10 @@
+D:\C#\coinFlip\coinFlip\bin\Debug\coinFlip.exe.config
+D:\C#\coinFlip\coinFlip\bin\Debug\coinFlip.exe
+D:\C#\coinFlip\coinFlip\bin\Debug\coinFlip.pdb
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.AssemblyReference.cache
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.HeadsOrTailsForm.resources
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.Properties.Resources.resources
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.GenerateResource.cache
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.CoreCompileInputs.cache
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.exe
+D:\C#\coinFlip\coinFlip\obj\Debug\coinFlip.pdb
