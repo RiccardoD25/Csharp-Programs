@@ -1,0 +1,16 @@
+D:\C#\TicTacToeApp\TicTacToeApp\bin\Debug\net7.0-windows\TicTacToeApp.exe
+D:\C#\TicTacToeApp\TicTacToeApp\bin\Debug\net7.0-windows\TicTacToeApp.deps.json
+D:\C#\TicTacToeApp\TicTacToeApp\bin\Debug\net7.0-windows\TicTacToeApp.runtimeconfig.json
+D:\C#\TicTacToeApp\TicTacToeApp\bin\Debug\net7.0-windows\TicTacToeApp.dll
+D:\C#\TicTacToeApp\TicTacToeApp\bin\Debug\net7.0-windows\TicTacToeApp.pdb
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.Form1.resources
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.csproj.GenerateResource.cache
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.AssemblyInfoInputs.cache
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.AssemblyInfo.cs
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.csproj.CoreCompileInputs.cache
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.dll
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\refint\TicTacToeApp.dll
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.pdb
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\TicTacToeApp.genruntimeconfig.cache
+D:\C#\TicTacToeApp\TicTacToeApp\obj\Debug\net7.0-windows\ref\TicTacToeApp.dll
