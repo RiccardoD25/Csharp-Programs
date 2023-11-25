@@ -1,0 +1,16 @@
+D:\C#\StadiumSeatApp\StadiumSeatApp\bin\Debug\net7.0-windows\StadiumSeatApp.exe
+D:\C#\StadiumSeatApp\StadiumSeatApp\bin\Debug\net7.0-windows\StadiumSeatApp.deps.json
+D:\C#\StadiumSeatApp\StadiumSeatApp\bin\Debug\net7.0-windows\StadiumSeatApp.runtimeconfig.json
+D:\C#\StadiumSeatApp\StadiumSeatApp\bin\Debug\net7.0-windows\StadiumSeatApp.dll
+D:\C#\StadiumSeatApp\StadiumSeatApp\bin\Debug\net7.0-windows\StadiumSeatApp.pdb
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.Form1.resources
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.csproj.GenerateResource.cache
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.AssemblyInfoInputs.cache
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.AssemblyInfo.cs
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.csproj.CoreCompileInputs.cache
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.dll
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\refint\StadiumSeatApp.dll
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.pdb
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\StadiumSeatApp.genruntimeconfig.cache
+D:\C#\StadiumSeatApp\StadiumSeatApp\obj\Debug\net7.0-windows\ref\StadiumSeatApp.dll
