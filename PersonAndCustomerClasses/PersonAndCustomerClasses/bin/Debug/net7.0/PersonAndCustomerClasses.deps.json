@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PersonAndCustomerClasses/1.0.0": {
+        "runtime": {
+          "PersonAndCustomerClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonAndCustomerClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

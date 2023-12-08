@@ -1,0 +1,14 @@
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\bin\Debug\net7.0\PersonAndCustomerClasses.exe
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\bin\Debug\net7.0\PersonAndCustomerClasses.deps.json
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\bin\Debug\net7.0\PersonAndCustomerClasses.runtimeconfig.json
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\bin\Debug\net7.0\PersonAndCustomerClasses.dll
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\bin\Debug\net7.0\PersonAndCustomerClasses.pdb
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.AssemblyInfoInputs.cache
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.AssemblyInfo.cs
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.csproj.CoreCompileInputs.cache
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.dll
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\refint\PersonAndCustomerClasses.dll
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.pdb
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\PersonAndCustomerClasses.genruntimeconfig.cache
+D:\C#\PersonAndCustomerClasses\PersonAndCustomerClasses\obj\Debug\net7.0\ref\PersonAndCustomerClasses.dll
